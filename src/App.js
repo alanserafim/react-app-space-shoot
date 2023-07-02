@@ -1,10 +1,10 @@
-import Home from  './pages/Home'
+import HomePage from './pages/HomePage';
 import './styles/globals.scss'
 
 export default function App() {
   return (
    <>
-    <Home/>
+   <HomePage/>
    </>
   );
 }

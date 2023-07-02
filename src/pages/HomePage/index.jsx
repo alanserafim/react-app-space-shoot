@@ -1,9 +1,9 @@
 import Banner from "../../components/Banner";
 import Header from "../../components/Header";
 import Menu from "../../components/Menu";
-import styles from './Home.module.scss'
+import styles from './HomePage.module.scss'
 
-export default function Home() {
+export default function HomePage(){
   return (
     <>
       <Header />
