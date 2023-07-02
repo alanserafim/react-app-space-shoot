@@ -1,12 +1,12 @@
 import Banner from "../../components/Banner";
-import Header from "../../components/Header";
+import Cabecalho from "../../components/Cabecalho";
 import Menu from "../../components/Menu";
 import styles from './HomePage.module.scss'
 
 export default function HomePage(){
   return (
     <>
-      <Header />
+      <Cabecalho/>
       <main>
         <section className={styles.principal}>
           <Menu />

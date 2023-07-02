@@ -1,8 +1,8 @@
 import logo from "./img/logo.png"
 import search from "./img/search.png"
-import styles from './Header.module.scss'
+import styles from './Cabecalho.module.scss'
 
-export default function Header() {
+export default function Cabecalho() {
     return (
         <header className={styles.cabecalho}>
             <img src={logo} alt="Logo do Space Shoot" />
