@@ -1,4 +1,4 @@
-import Home from "./pages/home";
+import Home from "./pages/Home";
 import './styles/globals.scss'
 
 export default function App() {

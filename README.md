@@ -13,10 +13,19 @@ Top-down
 | N. | Componente | Conceito trabalho |
 |--- |--- |---
 | 1 | Header | Estrutura de pastas, importação de imagem estática, Sass, CSS Module
+| 2 | Menu | Boas práticas de organização de diretórios, importando imagens e ícones
+| 3 | Banner | HTML semântico, utilizaçào do import de forma correta, extensão React Snippets
 | X | Componente | Conceito
 | X | Componente | Conceito
-| X | Componente | Conceito
-| X | Componente | Conceito
+
+
+
+
+
+
+
+
+
 
 
 
