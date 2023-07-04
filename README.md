@@ -16,8 +16,8 @@ Top-down
 | 2 | Menu | Boas práticas de organização de diretórios, importando imagens e ícones
 | 3 | Banner | HTML semântico, utilizaçào do import de forma correta, extensão React Snippets
 | 4 | Rodape, refatoração | Estilos globais, importação de fontes, variáveis scss, normalize
-| X | Componente | Conceito
-| X | Componente | Conceito
+| 5 | Tags, Galeria, Cards | Map para percorrer o arquivo de dados e renderizar as imagens, utilizar a pasta public
+| X | Componente | Conceitos
 
 
 
