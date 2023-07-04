@@ -17,6 +17,8 @@ Top-down
 | 3 | Banner | HTML semântico, utilizaçào do import de forma correta, extensão React Snippets
 | 4 | Rodape, refatoração | Estilos globais, importação de fontes, variáveis scss, normalize
 | 5 | Tags, Galeria, Cards | Map para percorrer o arquivo de dados e renderizar as imagens, utilizar a pasta public
+| X | Populares, refatoração | Absolute imports, funcionade de filtro por tags
+| X | Componente | Conceitos
 | X | Componente | Conceitos
 
 
